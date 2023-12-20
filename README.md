@@ -5,3 +5,7 @@
 [control flow Statements](control_flow_Statements.md)
 
 [Array](array.md)
+
+[Object](object.md)
+
+[function](function.md)
